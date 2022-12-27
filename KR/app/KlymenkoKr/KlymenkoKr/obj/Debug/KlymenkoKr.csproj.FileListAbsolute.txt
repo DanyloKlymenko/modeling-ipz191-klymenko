@@ -1,0 +1,11 @@
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\bin\Debug\KlymenkoKr.exe.config
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\bin\Debug\KlymenkoKr.exe
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\bin\Debug\KlymenkoKr.pdb
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\obj\Debug\KlymenkoKr.csproj.AssemblyReference.cache
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\obj\Debug\KlymenkoKr.csproj.SuggestedBindingRedirects.cache
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\obj\Debug\KlymenkoKr.Form1.resources
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\obj\Debug\KlymenkoKr.Properties.Resources.resources
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\obj\Debug\KlymenkoKr.csproj.GenerateResource.cache
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\obj\Debug\KlymenkoKr.csproj.CoreCompileInputs.cache
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\obj\Debug\KlymenkoKr.exe
+C:\studying\MODEL\KR\app\KlymenkoKr\KlymenkoKr\obj\Debug\KlymenkoKr.pdb
